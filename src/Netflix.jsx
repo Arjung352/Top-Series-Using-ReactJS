@@ -1,4 +1,4 @@
-let source = [
+let netflix = [
   {
     img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFALATQqHRaoJKhDZwqelGnIqaHUSPekc52sE81OBMmTth2tzC",
     sname: "Better Call Saul",
@@ -36,4 +36,4 @@ let source = [
     link: "https://www.netflix.com/in/title/70143836",
   },
 ];
-export default source;
+export default netflix;
